@@ -1,12 +1,12 @@
-# ZERO-
-NASA 2017
-Work from Robotics club Tamankeet Tecnol�gico de Monterrey Campus CSF for Zero 
-Robotics 2017
+# **ZERO ROBOTICS NASA 2017**
+Work from Robotics club Tamankeet Tecnológico de Monterrey Campus CSF for Zero Robotics 2017
 
-Competition link: http://zerorobotics.mit.edu/tournaments/28/match/94/1193/
+TamanKeet3933 got into top 50 on 2D competition 
 
-Members:
-Juan Carlos Garfias Tovar
-Lourdes Badillo
-Ignacio Ayala
-Luis Javier Alonso
+**Competition link:** http://zerorobotics.mit.edu/tournaments/28/match/94/1193/
+
+**Members:**
+- Juan Carlos Garfias Tovar
+- Lourdes Badillo
+- Ignacio Ayala
+- Luis Javier Alonso
